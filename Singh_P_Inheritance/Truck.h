@@ -1,5 +1,5 @@
-#ifndef TRUCK.H
-#define TRUCK.H
+#ifndef TRUCK_H
+#define TRUCK_H
 // Vehicle class
 #include "Vehicle.h"
 
